@@ -10,7 +10,7 @@ bot = Bot(token=os.getenv("TELEGRAM_BOT_KEY"))
 
 dp = Dispatcher(bot)
 
-#first_prompt = 'You are an useful assistant called "Maistro", you are programmed to answer any questions the user asks'
+first_prompt = 'You are an useful assistant called "Maistro", you are programmed to answer any questions the user asks'
 
 
 
